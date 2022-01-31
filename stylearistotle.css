@@ -1,0 +1,106 @@
+
+body{
+    background-color:whitesmoke ;
+}
+section{
+    background-color: lightgrey;
+    margin-left: 150px;
+    margin-top: 40px;
+    margin-right: 150px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+div.head{
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+}
+div.header{
+    text-align: center;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1.aristotle{
+    font-size: 60px;
+    font-weight: lighter;
+    color: rgb(31, 30, 30);
+}
+h2.date{
+    font-size: 50px;
+    font-weight: lighter;
+    color: rgb(31, 30, 30);
+
+}
+h3.about{
+    font-size: 40px;
+    font-weight: lighter;
+    color: rgb(31, 30, 30);
+}
+div.who{
+    border-color: gray;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    margin: 10px;   
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: larger;
+}
+div.img{
+    margin: 10px;
+    border: gray;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    padding: 5px;
+
+}
+img.image{
+    margin-left: 330px;
+    border-radius: 200px;
+    height: 400px;
+    width: 400px;
+    width: auto;
+}
+figcaption.caption{
+    padding: 5px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: larger;
+    text-align: center;
+    background-color: gray;
+    border-radius: 10px;
+}
+div.foot{
+    margin-bottom: 20px;
+}
+h3.article{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    font-size: 40px;
+    font-weight: lighter;
+    color: rgb(31, 30, 30);
+}
+ul.list{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: larger;
+
+}
+span.dates{
+    font-weight: bold;
+}
+div.wikipedia{
+    padding: 5px;
+    text-align: center;
+
+}
+footer.foot{
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
